@@ -22,3 +22,6 @@ Celem projektu jest stopniowe poznanie podstaw:
 ## Autor
 
 Zuzanna Mróz
+
+## Nazwa
+Dziennik Ksiązek i Filmów 
