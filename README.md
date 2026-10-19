@@ -25,3 +25,9 @@ Zuzanna Mróz
 
 ## Nazwa
 Dziennik Ksiązek i Filmów 
+
+### Krótki opis 
+Rodzaje danych: Tytuł, Typ (książka / Film), Gatunek, Ocena (1–5 gwiazdek), Status (Obejrzane / W trakcie / Do obejrzenia).
+Wyświetlanie: Lista wszystkich pozycji z możliwością filtrowania (np. pokaż tylko Książki albo tylko Obejrzane).
+Dodawanie / Edycja: Formularz dodania nowego tytułu oraz zmiana oceny/statusu po obejrzeniu.
+Prosta funkcja: Śledzenie własnej kolekcji i tworzenie listy „do zapoznania się”.
